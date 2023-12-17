@@ -1,4 +1,7 @@
 # Инструкция по работе с git
+![Git](https://fuzeservers.ru/wp-content/uploads/e/4/5/e4553ab0cd4508104a3196729458afab.png)
+
+[Скачать](https://git-scm.com/downloads (Официальный сайт))
 
 ## Что это и для чего нужна система контроля версий?
 
